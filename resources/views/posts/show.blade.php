@@ -1,7 +1,7 @@
 @extends("layouts.app")
 
 @section("content")
-<a href="/mylaravelapp/public/posts" class="btn btn-default">go back!</a>
+<a href="/public/posts" class="btn btn-default">go back!</a>
 <h1>{{$post->title}}</h1>
 <div>
     {{$post -> body}}
