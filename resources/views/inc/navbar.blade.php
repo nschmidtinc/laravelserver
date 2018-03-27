@@ -15,7 +15,7 @@
               <li><a href="/mylaravelapp/public/about">About</a></li>
               <li><a href="/mylaravelapp/public/services">Services</a></li>
               <li><a href="/mylaravelapp/public/posts/create">Create Post</a></li>
-              <li><a href="/mylaravelapp/public/posts">Blog</a></li>
+              <li><a href="/public/posts">Blog</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right ">
               <li><a href="/mylaravelapp/public/posts/create">Create Post</a></li>
