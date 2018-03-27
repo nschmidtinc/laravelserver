@@ -39,7 +39,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'quiet-island-11588.herokuapp.com/'),
 
     /*
     |--------------------------------------------------------------------------
