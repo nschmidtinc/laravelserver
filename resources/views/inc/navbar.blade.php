@@ -12,13 +12,13 @@
           <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
               <li class="active"><a href="/">Home</a></li>
-              <li><a href="/mylaravelapp/public/about">About</a></li>
-              <li><a href="/mylaravelapp/public/services">Services</a></li>
-              <li><a href="/mylaravelapp/public/posts/create">Create Post</a></li>
+              <li><a href="/public/about">About</a></li>
+              <li><a href="/public/services">Services</a></li>
+              <li><a href="/public/posts/create">Create Post</a></li>
               <li><a href="/public/posts">Blog</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right ">
-              <li><a href="/mylaravelapp/public/posts/create">Create Post</a></li>
+              <li><a href="/public/posts/create">Create Post</a></li>
 
             </ul>
           </div><!--/.nav-collapse -->
